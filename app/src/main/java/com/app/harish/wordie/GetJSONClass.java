@@ -19,7 +19,7 @@ class GetJSONClass {
         /*NOTE: The app wont function until you get your api key from wordnik(https://developer.wordnik.com/)
          *and store in API String
          */
-        String API ="5640cf122b4ba0836c60e0411f206cbf4b6114aadd6a4de91";
+        String API ="PasteHere";
 
         String link = URLfirstpart+word+URLlastpart+API;
         String JSONString;
