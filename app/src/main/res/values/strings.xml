@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wordie</string>
+    <string name="enter_the_word">Enter the word:</string>
+    <string name="eg_book_orange">Eg:book,orange</string>
+    <string name="icon_of_wordie">icon of wordie</string>
+    <string name="loading">Loading....</string>
+    <string name="no_network">turn on network!</string>
+    <string name="no_input">Enter something!</string>
+    <string name="no_results">No results found!</string>
+    <string name="app_icon">app icon</string>
+    <string name="hint">Eg:Orange</string>
+    <string name="DnPOS">Definition and part of speech of the word:</string>
+    <string name="wordie">Wordie</string>
+    <string name="search">search</string>
+</resources>
